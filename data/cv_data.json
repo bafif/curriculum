@@ -12,6 +12,11 @@
         "Provincia": "Santa Fé",
         "Ciudad": "Rosario"
     },
+    "Contactos": {
+        "Teléfono": "+54 9 341 600 9531",
+        "Correo": "bautistafiori6@gmail.com",
+        "GitHub": "www.github.com/bafif"
+    },
     "Habilidades": {
         "Programación": ["C", "C++", "Python"],
         "Micro": ["Arduino (C++)", "AVR Assembly"],
